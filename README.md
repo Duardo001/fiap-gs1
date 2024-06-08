@@ -1,10 +1,11 @@
 # fiap-gs1
 
+```
+ Eduardo Santos Neto RM96042
 
-### Eduardo Santos Neto RM96042
+ Luiz Paulo Macilia Santos RM95818
 
-### Luiz Paulo Macilia Santos RM95818
+ Mariana Mayumi Kubo Barboza  RM95533
 
-### Mariana Mayumi Kubo Barboza  RM95533
-
-### Pedro Lucca RM96158
+ Pedro Lucca RM96158
+```
