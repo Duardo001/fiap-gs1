@@ -7,5 +7,5 @@
 
  Mariana Mayumi Kubo Barboza  RM95533
 
- Pedro Lucca RM96158
+ Pedro Lucca Lamark RM96158
 ```
